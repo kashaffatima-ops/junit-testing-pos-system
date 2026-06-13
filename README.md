@@ -75,6 +75,5 @@ The testing process successfully evaluated the behavior of multiple system modul
 
 ## Author
 
-[Your Name]
-
+Kashaf Fatima
 Software Quality Assurance | Software Testing | Quality Engineering
